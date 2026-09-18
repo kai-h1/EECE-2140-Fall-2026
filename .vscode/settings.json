@@ -1,0 +1,4 @@
+{
+	"stylua.targetReleaseVersion": "latest",
+	"C_Cpp.default.compilerPath": "/usr/bin/g++"
+}
